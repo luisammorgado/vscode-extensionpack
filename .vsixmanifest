@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <PackageManifest Version="2.0.0" xmlns="http://schemas.microsoft.com/developer/vsx-schema/2011" xmlns:d="http://schemas.microsoft.com/developer/vsx-schema-design/2011">
   <Metadata>
-    <Identity Language="en-US" Id="vscode-extensionpack" Version="1.0.0" Publisher="lmorgado"/>
+    <Identity Language="en-US" Id="lmorgado.vscode-extensionpack" Version="1.0.1" Publisher="lmorgado"/>
     <DisplayName>VSCode Extension Pack</DisplayName>
     <Description xml:space="preserve">Turn VSCode into a supercharged IDE.</Description>
     <Tags></Tags>

@@ -1,0 +1,14 @@
+.tmp
+.old
+Onedrive
+
+
+*.log
+*.tmp
+*.dummy
+
+notes.md
+#*.csv
+*.xlsx
+*.docx
+*.pptx

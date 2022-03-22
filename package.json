@@ -2,7 +2,7 @@
 	"name": "vscode-extensionpack",
 	"displayName": "VSCode Extension Pack",
 	"description": "Turn VSCode into a supercharged IDE.",
-	"version": "1.0.0",
+	"version": "1.0.2",
 	"engines": {
 		"vscode": "^1.38.0"
 	},
@@ -23,12 +23,5 @@
 		"color": "#2e2e2e",
 		"theme": "dark"
 	},
-	"license": "SEE LICENSE IN LICENSE",
-	"__metadata": {
-		"id": "e267776c-05ff-4fa1-8b85-408ec41f96dc",
-		"publisherId": "95342e32-4dc6-4bfc-af5e-e1f8b18d7c9a",
-		"publisherDisplayName": "jabacchetta",
-		"isPreReleaseVersion": false,
-		"installedTimestamp": 1643739861764
-	}
+	"license": "LICENSE.txt"
 }
