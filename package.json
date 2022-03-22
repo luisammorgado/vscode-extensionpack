@@ -2,7 +2,7 @@
 	"name": "vscode-extensionpack",
 	"displayName": "VSCode Extension Pack",
 	"description": "Turn VSCode into a supercharged IDE.",
-	"version": "1.0.2",
+	"version": "1.0.7",
 	"engines": {
 		"vscode": "^1.38.0"
 	},
@@ -23,5 +23,34 @@
 		"color": "#2e2e2e",
 		"theme": "dark"
 	},
-	"license": "LICENSE.txt"
+	"license": "LICENSE.txt",
+	"extensionPack": [
+		"shan.code-settings-sync",
+		"zhuangtongfa.material-theme",
+		"team.vscode-icons",
+		"ms-vscode.powershell",
+		"coenraads.bracket-pair-colorizer-2",
+		"janisdd.vscode-edit-csv",
+		"lacroixdavid1.vscode-format-context-menu",
+		"shd101wyy.markdown-preview-enhanced",
+		"stkb.rewrap",
+		"gruntfuggly.todo-tree",
+		"codezombiech.gitignore",
+		"eamodio.gitlens",
+		"ms-dotnettools.dotnet-interactive-vscode",
+		"ms-dotnettools.vscode-dotnet-runtime",
+		"ms-toolsai.jupyter",
+		"ms-python.python",
+		"dotjoshjohnson.xml",
+		"humao.rest-client",
+		"hediet.vscode-drawio",
+		"xyz.local-history",
+		"ms-vscode.azure-account"
+	],
+	"contributes": {
+		"configuration": {
+			"properties": {}
+		},
+		"title": "Luis"
+	}
 }
