@@ -2,12 +2,16 @@
 	"name": "vscode-extensionpack",
 	"displayName": "VSCode Extension Pack",
 	"description": "Turn VSCode into a supercharged IDE.",
-	"version": "1.0.7",
+	"version": "1.0.9",
+	"extensionKind": [
+		"ui",
+		"workspace"
+	],
 	"engines": {
-		"vscode": "^1.38.0"
+		"vscode": "^1.45.0"
 	},
 	"author": {
-		"name": "lmorgado"
+		"name": "Luis Morgado"
 	},
 	"publisher": "lmorgado",
 	"repository": {
@@ -15,7 +19,8 @@
 		"url": "https://github.com/luisammorgado/vscode-extensionpack"
 	},
 	"categories": [
-		"Extension Packs"
+		"Extension Packs",
+		"Other"
 	],
 	"keywords": [],
 	"icon": "images/icon.png",
@@ -26,6 +31,8 @@
 	"license": "LICENSE.txt",
 	"extensionPack": [
 		"shan.code-settings-sync",
+		"tyriar.windows-terminal",
+		"github.vscode-pull-request-github",
 		"zhuangtongfa.material-theme",
 		"team.vscode-icons",
 		"ms-vscode.powershell",
@@ -45,6 +52,7 @@
 		"humao.rest-client",
 		"hediet.vscode-drawio",
 		"xyz.local-history",
+		"alefragnani.bookmarks",
 		"ms-vscode.azure-account"
 	],
 	"contributes": {

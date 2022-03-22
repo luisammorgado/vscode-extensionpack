@@ -1,14 +1,6 @@
 .tmp
-.old
-Onedrive
+out
+node_modules
 
-
-*.log
-*.tmp
-*.dummy
-
-notes.md
-#*.csv
-*.xlsx
-*.docx
-*.pptx
+.vscode-test/
+*.vsix
